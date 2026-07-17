@@ -83,7 +83,7 @@
   <a href="https://github.com/devanshkaushik09" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
   </a>
-  <a href="https://devanshkaushik09.github.io/html-portfolio/" target="_blank">
+  <a href="https://devansh-terminal.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio logo" />
   </a>
   <a href="https://instagram.com/is.that.devansh" target="_blank">
