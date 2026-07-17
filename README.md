@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="leetcode logo" />
   </a>
   <a href="https://takeuforward.org/profile/devansh_kaushik09" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="takeuforward logo" />
+    <img src="Screenshot 2026-07-17 173811.png" height="30" alt="takeuforward logo" />
   </a>
   <a href="https://codeforces.com/profile/devansh_kaushik" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="codeforces logo" />
