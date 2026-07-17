@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshkaushik09&show_icons=true&theme=dracula" />
-  <img src="https://raw.githubusercontent.com/devanshkaushik09/devanshkaushik09/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=devanshkaushik09&show_icons=true&theme=dracula" /> -->
+  <!-- <img src="https://raw.githubusercontent.com/devanshkaushik09/devanshkaushik09/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" /> -->
 </div>
 
 ###
@@ -101,6 +101,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devanshkaushik09/devanshkaushik09/snake-output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/devanshkaushik09/devanshkaushik09/snake-output/snake.svg" alt="Snake animation" /> -->
 
 ###
