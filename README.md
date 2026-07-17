@@ -74,26 +74,26 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/devanshkaushik09" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-  </a>
   <a href="mailto:devanshk9125@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://github.com/devanshkaushik09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
   </a>
   <a href="https://devansh-terminal.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio logo" />
   </a>
-  <a href="https://instagram.com/is.that.devansh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" />
-  </a>
   <a href="https://leetcode.com/u/devansh_kaushik/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="leetcode logo" />
   </a>
+  <a href="https://takeuforward.org/profile/devansh_kaushik09" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="takeuforward logo" />
+  </a>
   <a href="https://codeforces.com/profile/devansh_kaushik" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="codeforces logo" />
+  </a>
+  <a href="https://linkedin.com/in/devanshkaushik09" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://instagram.com/is.that.devansh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" />
   </a>
 </div>
 
