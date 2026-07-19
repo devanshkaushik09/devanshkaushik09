@@ -21,14 +21,10 @@
 
 💻 Passionate about **Full Stack Development, Data Structures & Algorithms, Backend Engineering & Cybersecurity**
 
-🚀 Building scalable web applications and AI-powered solutions
-
 🌱 Currently exploring:
 - 🔐 Cybersecurity Fundamentals
 - ⚙️ Scalable Backend Architecture (Node.js)
 - 🧠 Advanced Data Structures & Algorithms
-
-⚡ Fun Fact: I enjoy solving DSA problems and building projects that solve real-world problems.
 
 </div>
 
