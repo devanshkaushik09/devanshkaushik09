@@ -65,7 +65,6 @@
 - 💯 Solved **900+ DSA Problems** across coding platforms
 - 🥇 Gold Medalist (Zonal Rank 7) – Mathematics Olympiad
 - 📈 JEE Mains **98.79 Percentile**
-- 💼 Building AI-powered and Full Stack projects
 
 ###
 
