@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Devansh Kaushik, a B.Tech Information Technology student at NIT Kurukshetra passionate about Full Stack Development, DSA & Cybersecurity 🚀</h2>
+<h2 align="left">Hi 👋! I'm Devansh Kaushik, a B.Tech Information Technology student at NIT Kurukshetra passionate about Full Stack Development (Django & Node.js), DSA & Cybersecurity 🚀</h2>
 
 ###
 
@@ -22,13 +22,16 @@
 💻 Passionate about **Full Stack Development, Data Structures & Algorithms, Backend Engineering & Cybersecurity**
 
 🌱 Currently exploring:
+- 🐍 Backend Development with Django
 - 🔐 Cybersecurity Fundamentals
-- ⚙️ Scalable Backend Architecture (Node.js)
+- ⚙️ Scalable Backend Architecture (Node.js & Django)
 - 🧠 Advanced Data Structures & Algorithms
 
 </div>
 
 ###
+
+### 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
@@ -36,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="35" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
   <img width="12" />
@@ -49,6 +54,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
@@ -60,9 +71,25 @@
 
 ###
 
+### 🚀 Featured Project
+
+#### 📚 [Smart Study Planner – AI-Powered Learning System](add link here)
+
+A full-stack **Django** web app that generates personalized study schedules for students using a custom rule-based scheduling algorithm.
+
+- 🤖 **Smart scheduling:** harder subjects get longer sessions, extra revision sessions are added as exams get close, and weekends get bonus study time
+- 👤 **Authentication & profiles:** student registration, login and editable profiles using a custom user model
+- 📖 **Subject & exam management:** add subjects with difficulty levels, topics and exam dates, then auto-generate a plan
+- 📊 **Progress tracking:** study calendar and progress charts built with Chart.js
+- 🛡️ **Admin dashboard:** staff-only overview alongside the Django admin panel
+
+**Tech:** Python · Django 4.2 · SQLite / MySQL · Bootstrap 5 · Chart.js
+
+###
+
 ### 🏆 Achievements
 
-- 💯 Solved **900+ DSA Problems** across coding platforms
+- 💯 Solved **1000+ DSA Problems** across coding platforms
 - 🥇 Gold Medalist (Zonal Rank 7) – Mathematics Olympiad
 - 📈 JEE Mains **98.79 Percentile**
 
