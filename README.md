@@ -73,7 +73,7 @@
 
 ### 🚀 Featured Project
 
-#### 📚 [Smart Study Planner – AI-Powered Learning System](add link here)
+#### 📚 [Smart Study Planner – AI-Powered Learning System](https://github.com/devanshkaushik09/Smart-Study-Planner)
 
 A full-stack **Django** web app that generates personalized study schedules for students using a custom rule-based scheduling algorithm.
 
